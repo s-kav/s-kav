@@ -15,9 +15,6 @@ Research interests reflect 25+ years of experience in data science, machine lear
 |---|---|---|
 | ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kav&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-kav&layout=compact&theme=radical) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s-kav&theme=github_dark) |
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=s-kav)](https://git.io/streak-stats)
-
 ## 📊 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-kav&theme=react-dark)
 
@@ -131,3 +128,6 @@ Educational Technology: Personalized learning systems and intelligent tutoring |
 | Differential Privacy: Privacy-preserving machine learning techniques
 Adversarial Machine Learning: Robustness against adversarial attacks
 Secure Multi-party Computation: Privacy-preserving collaborative AI systems |
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=s-kav)](https://git.io/streak-stats)
