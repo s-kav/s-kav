@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sergii Kavun
 
 ## 👨‍💻 About Me
-I am a passionate Researcher & AI Architector with over 25+ years of research experience and 1.2k+ citations <a href="https://scholar.google.com/citations?hl=en&user=egvnjnQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+I am a passionate Researcher & AI Architector with over 25+ years of research experience and 1.2k+ citations [Google Scholar ↗](https://scholar.google.com/citations?hl=en&user=egvnjnQAAAAJ)
 
 Research interests reflect 25+ years of experience in data science, machine learning, and interdisciplinary applications across academia and industry, with focus on practical implementations and real-world impact.
 
