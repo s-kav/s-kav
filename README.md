@@ -18,6 +18,15 @@ Research interests reflect 25+ years of experience in data science, machine lear
 ## 📊 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-kav&theme=react-dark)
 
+## 🚀 Portfolio
+
+## Enterprise Agents Capstone
+- **Tech**: Python, Multi-Agent AI, Gemini API, Pandas, Asyncio
+- **Result**: $124M profit optimization, 86.8% approval rate, 138 sanctions triggers
+- **GitHub**: [github.com/s-kav/enterprise_agents_capstone](https://github.com/s-kav/enterprise_agents_capstone)
+- **Kaggle**: [Kaggle notebook](https://www.kaggle.com/code/sergiikavun/ai-enterprise-agents)
+
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavun%20Sergii-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergii-kavun/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kavserg@gmail.com)
