@@ -18,17 +18,17 @@ Research interests reflect 25+ years of experience in data science, machine lear
 ## 📊 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-kav&theme=react-dark)
 
-## 🚀 Portfolio
+## 🚀 Portfolio summary
 
 | Project | Tech Stack | Key Result | Link |
 |---------|------------|------------|------|
 | **[Enterprise Agents Capstone](https://github.com/s-kav/enterprise_agents_capstone)** | Python, Multi-Agent AI, Gemini API, Pandas, Asyncio | $124M profit optimization, 86.8% approval rate, 138 sanctions triggers | [GitHub](https://github.com/s-kav/enterprise_agents_capstone) |
-| **[DS Tools](https://github.com/s-kav/ds_tools)** | Python, Pandas, NumPy, Sklearn, Plotly | 15+ reusable modules for EDA, feature engineering, model evaluation | [GitHub](https://github.com/s-kav/ds_tools) |
+| **[DS Tools](https://github.com/s-kav/ds_tools)** | Python, Pandas, NumPy, Sklearn, Plotly | 30+ reusable modules for EDA, feature engineering, model evaluation, distances estimation | [GitHub](https://github.com/s-kav/ds_tools) |
 | **[Adaptive Bayes](https://github.com/s-kav/adaptive_bayes)** | Python, PyMC, NumPy, Jupyter | Dynamic Bayesian updating with 94% posterior accuracy on non-stationary data | [GitHub](https://github.com/s-kav/adaptive_bayes) |
 | **[Complexity Cost Profiler](https://github.com/s-kav/complexity_cost_profiler)** | Python, NetworkX, Pandas, Streamlit | 30% cost reduction via graph-based complexity scoring of IT services | [GitHub](https://github.com/s-kav/complexity_cost_profiler) |
-| **[KZ Data Imputation](https://github.com/s-kav/kz_data_imputation)** | Python, Pandas, Scikit-learn, XGBoost | 95% imputation accuracy on Kazakh demographic datasets with 40% missingness | [GitHub](https://github.com/s-kav/kz_data_imputation) |
-| **[MDSE Theory](https://github.com/s-kav/mdse_theory)** | Python, SymPy, Matplotlib, LaTeX | Symbolic derivation & visualization of minimum description length equations | [GitHub](https://github.com/s-kav/mdse_theory) |
-| **[S3/S4 Activation Function](https://github.com/s-kav/s3_s4_activation_function)** | Python, PyTorch, NumPy, Matplotlib | Novel activation function outperforming ReLU by 2.3% on CIFAR-10 | [GitHub](https://github.com/s-kav/s3_s4_activation_function) |
+| **[KZ Data Imputation](https://github.com/s-kav/kz_data_imputation)** | Python, Pandas, Scikit-learn, XGBoost | 95% imputation accuracy on Wind Turbine Scada Dataset with 40% missingness | [GitHub](https://github.com/s-kav/kz_data_imputation) |
+| **[MDSE Theory](https://github.com/s-kav/mdse_theory)** | Python, SymPy, Matplotlib, LaTeX | Symbolic derivation & visualization of Novel probabilistic framework | [GitHub](https://github.com/s-kav/mdse_theory) |
+| **[S3/S4 Activation Function](https://github.com/s-kav/s3_s4_activation_function)** | Python, PyTorch, NumPy, Matplotlib | Novel activation function outperforming ReLU by 2.3% on CIFAR-10; ~5.5-6.5x speedup demonstrates the effectiveness of the CUDA-accelerated backend for processing large volumes of data | [GitHub](https://github.com/s-kav/s3_s4_activation_function) |
 
 
 ## 📫 Connect with me
