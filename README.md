@@ -29,6 +29,7 @@ Research interests reflect 25+ years of experience in data science, machine lear
 | **[KZ Data Imputation](https://github.com/s-kav/kz_data_imputation)** | Python, Pandas, Scikit-learn, XGBoost | 95% imputation accuracy on Wind Turbine Scada Dataset with 40% missingness | [GitHub](https://github.com/s-kav/kz_data_imputation) |
 | **[MDSE Theory](https://github.com/s-kav/mdse_theory)** | Python, SymPy, Matplotlib, LaTeX | Symbolic derivation & visualization of Novel probabilistic framework | [GitHub](https://github.com/s-kav/mdse_theory) |
 | **[S3/S4 Activation Function](https://github.com/s-kav/s3_s4_activation_function)** | Python, PyTorch, NumPy, Matplotlib | Novel activation function outperforming ReLU by 2.3% on CIFAR-10; ~5.5-6.5x speedup demonstrates the effectiveness of the CUDA-accelerated backend for processing large volumes of data | [GitHub](https://github.com/s-kav/s3_s4_activation_function) |
+| **NOVAK: Unified adaptive optimizer** | Python, PyTorch, CUDA/cuDNN, NVCC, NumPy | #1 accuracy on 3/4 benchmarks: 89.32% CIFAR-10, 66.41% CIFAR-100, 98.11% ImageNet; +11.89 to +19.98 pp advantage over Adam across datasets; 14.9-46.2% memory reduction vs. adaptive methods; 26.0% faster than SGD despite per-epoch overhead; O(p + p/k) memory for lookahead (vs. O(2p) standard); 64.3% lower failure rate than modern adaptive methods | will be soon opened |
 
 
 ## 📫 Connect with me
