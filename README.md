@@ -33,6 +33,7 @@ Research interests reflect 25+ years of experience in data science, machine lear
 | **[S²-Flow Research Framework](https://github.com/s-kav/s2-flow-research)** | Python, NumPy, SciPy, NetworkX, SymPy, LaTeX, pytest | Developed structural reductions, exact certificate verification, equivariant flow models, and reproducible computational tooling for cubic graphs | [GitHub](https://github.com/s-kav/s2-flow-research) |
 | **[Flower Snarks J<sub>n</sub>](https://github.com/s-kav/s2-flow-research)** | Symbolic algebra, numerical continuation, interval analysis, exact dyadic certificates | Proved that every flower snark $J_n$, for odd $n \ge 5$, admits an $\mathbb{S}^2$-flow | [GitHub](https://github.com/s-kav/s2-flow-research) |
 | **[Goldberg Snarks G<sub>k</sub>](https://github.com/s-kav/s2-flow-research)** | $Z_k$-equivariant ansatz, nonlinear least squares, analytic Jacobians, graph expansion and verification | Derived a $j$-parametric flow construction, established the key feasibility condition, and verified exact numerical solutions for 52 Goldberg snarks up to $k = 1001$ | [GitHub](https://github.com/s-kav/s2-flow-research) |
+| **SCOPE Optimizer** | Python, PyTorch, CVXPY, SCS, NumPy, pytest, Ruff, uv | Built a certificate-guided optimizer prototype using stochastic Performance Estimation Problems, with dimension-free expected-decrease certificates and corrected certificate semantics validated by 51 passing tests | will be soon opened |
 
 
 ## 📫 Connect with me
